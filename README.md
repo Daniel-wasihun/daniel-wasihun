@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/daniel-wasihun/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://x.com/Daniel_wasihun" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
+  </a>
 </p>
 
 <p align="center">
@@ -197,7 +200,7 @@ Whether you have an upcoming project, need to hire a reliable developer, or just
 | ✈️ **Telegram** | `@DanielWasihun` | <a href="https://t.me/DanielWasihun" target="_blank"><img src="https://img.shields.io/badge/Direct_Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> |
 | ✉️ **Email** | `daniwzgeta@gmail.com` | <a href="mailto:daniwzgeta@gmail.com?subject=Project%20Inquiry%20-%20Daniel%20Wasihun"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
 | 🐙 **GitHub** | `@Daniel-wasihun` | <a href="https://github.com/Daniel-wasihun" target="_blank"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| 𝕏 **X / Twitter** | `@danielwasihun` | <a href="https://x.com/danielwasihun" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a> |
+| 𝕏 **X / Twitter** | `@Daniel_wasihun` | <a href="https://x.com/Daniel_wasihun" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a> |
 | 📸 **Instagram** | `@daniel.wasihun` | <a href="https://www.instagram.com/daniel.wasihun/" target="_blank"><img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> |
 
 <br/>
