@@ -13,7 +13,7 @@
   <a href="https://t.me/DanielWasihun" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:daniwzgeta@gmail.com">
+  <a href="mailto:daniwzgeta@gmail.com?subject=Project%20Inquiry%20-%20Daniel%20Wasihun">
     <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/daniel-wasihun/" target="_blank">
@@ -47,9 +47,9 @@ I am a results-oriented software engineer passionate about architecting scalable
 
 | Domain | Solutions & Deliverables |
 |---|---|
+| 🏢 **Multi-Tenant SaaS Systems** | Secure, isolated multi-tenant architectures, subscription billing, RBAC authorization, and automated customer onboarding for institutions and businesses. |
 | 🌐 **Full-Stack Web Applications** | High-performance enterprise portals, SaaS platforms, responsive web apps, and management dashboards using Vue, React, Next.js, Laravel, and Spring Boot. |
 | 📱 **Cross-Platform Mobile Apps** | Native-feel iOS and Android applications crafted with Flutter & Dart, integrated with offline-first data, push notifications, and payment gateways. |
-| 🏢 **Multi-Tenant SaaS Systems** | Secure, isolated multi-tenant architectures, subscription billing, RBAC authorization, and automated customer onboarding. |
 | ⚙️ **APIs & Microservices** | High-throughput REST & GraphQL backends, third-party integrations, OAuth2/JWT security, and database optimization with PostgreSQL, Redis, and MySQL. |
 | 🤖 **AI & Workflow Automation** | Speech-to-text transcribers, LLM integrations, document processors, and automated data extraction pipelines. |
 | 🚀 **DevOps & Cloud Deployment** | Docker containerization, CI/CD pipelines (GitHub Actions), automated testing, and zero-downtime server deployments. |
@@ -61,74 +61,66 @@ I am a results-oriented software engineer passionate about architecting scalable
 <div align="center">
 
 ### 💻 Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,dart,bash" alt="Languages" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,dart,bash" alt="Languages" />
 
 <br/>
 
 ### 🎨 Frontend & Mobile
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,flutter,html,css" alt="Frontend & Mobile" />
-</a>
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,flutter,html,css" alt="Frontend & Mobile" />
 
 <br/>
 
 ### ⚙️ Backend, Frameworks & Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,postgres,mysql,mongodb,redis" alt="Backend & Databases" />
-</a>
+<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,postgres,mysql,mongodb,redis" alt="Backend & Databases" />
 
 <br/>
 
 ### 🔧 DevOps, Cloud & Architecture
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,postman" alt="DevOps & Tools" />
-</a>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,postman" alt="DevOps & Tools" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Ranked by Architectural Complexity)
 
-Here are a few notable platforms and applications I've engineered:
+Here are notable platforms and applications I've engineered, ordered from heavy enterprise architectures to specialized products:
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏫 GibiGubae — Multi-School SaaS</h3>
-      <p>Enterprise-grade school management platform designed for multi-tenant scalability. Features fine-grained role-based access, academic tracking, automated scheduling, and strict tenant data isolation.</p>
+      <h3 align="center">🏫 GibiGubae — Multi-Tenant School SaaS</h3>
+      <p>Enterprise multi-tenant SaaS platform built for Ethiopian schools and Sunday school institutions. Provides centralized administration, student and member lifecycle tracking, automated academic records, grade processing, staff management, and parent-community communication portals with strict tenant data isolation.</p>
       <p><b>Stack:</b> <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">📚 Library Automation System</h3>
-      <p>End-to-end digital library management engine supporting circulation tracking, catalog search, barcode/QR processing, membership billing, and automated due-date notifications.</p>
-      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🎓 Senbet School Automation</h3>
-      <p>Comprehensive educational administration system streamlining student records, grade processing, staff management, and parent-teacher communication portals.</p>
+      <p>Comprehensive educational administration system streamlining student records, grade processing, academic scheduling, attendance tracking, staff management, and parent-teacher communication portals with high reliability.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Inertia.js</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3 align="center">🎬 Video-to-Text Transcriber</h3>
-      <p>AI-driven transcription application that converts video and audio media into formatted text with high accuracy, timestamp indexing, and exportable subtitles.</p>
-      <p><b>Stack:</b> <code>Python</code> · <code>Speech-to-Text AI</code> · <code>FastAPI</code></p>
+      <h3 align="center">📚 Library Automation System</h3>
+      <p>End-to-end digital library management engine supporting circulation tracking, book inventory, catalog indexing, barcode/QR processing, membership records, and automated due-date notifications.</p>
+      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌱 Digital Farmer Mobile App</h3>
+      <p>Cross-platform mobile application delivering real-time agronomic data, crop advisory, local market commodity pricing, and direct agricultural service connectivity with offline-first capabilities.</p>
+      <p><b>Stack:</b> <code>Flutter</code> · <code>Dart</code> · <code>REST APIs</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌱 Digital Farmer Mobile App</h3>
-      <p>Cross-platform mobile application delivering real-time agronomic data, crop advisory, local market pricing, and direct agricultural service connectivity to farmers.</p>
-      <p><b>Stack:</b> <code>Flutter</code> · <code>Dart</code> · <code>REST APIs</code></p>
+      <h3 align="center">🎬 Video-to-Text Transcriber</h3>
+      <p>AI-driven transcription application that converts video and audio media into formatted text with high accuracy, timestamp indexing, and exportable subtitles using automated speech recognition models.</p>
+      <p><b>Stack:</b> <code>Python</code> · <code>Speech-to-Text AI</code> · <code>FastAPI</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">💼 Dynamic Developer Portfolio</h3>
-      <p>Modular, responsive developer web application featuring a secure administrative CMS to manage dynamic projects, articles, technical skills, and client inquiries.</p>
-      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></p>
+      <h3 align="center">🌐 Qelem Meda Technologies Corporate Platform</h3>
+      <p>Official corporate technology website and client engagement platform for Qelem Meda Technologies, featuring modern responsive UI, dynamic service catalogs, case studies, and lead acquisition.</p>
+      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>Tailwind CSS</code> · <code>PostgreSQL</code></p>
     </td>
   </tr>
 </table>
