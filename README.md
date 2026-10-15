@@ -117,14 +117,14 @@ Here are production-grade platforms and applications I've engineered, ordered fr
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏫 GibiGubae — Multi-Tenant School SaaS</h3>
-      <p>Multi-tenant SaaS application built for Ethiopian schools and Sunday school institutions. Provides centralized administration, student and member lifecycle tracking, automated academic records, grade processing, staff management, and parent-community communication portals with strict tenant data isolation.</p>
+      <h3 align="center">🏫 Multi-Tenant School SaaS</h3>
+      <p>Enterprise multi-tenant SaaS platform engineered for Ethiopian K-12 schools. Provides centralized administration, student lifecycle tracking, automated academic records, continuous assessment, grade processing, staff management, and parent-teacher communication portals with strict tenant data isolation.</p>
       <p><b>Stack:</b> <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code></p>
       <p align="center"><a href="https://github.com/Daniel-wasihun/School"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 Senbet School Automation</h3>
-      <p>Comprehensive educational administration system streamlining student records, grade processing, academic scheduling, attendance tracking, staff management, and parent-teacher communication portals with high reliability.</p>
+      <h3 align="center">🎓 GibiGubae & Senbet School Automation</h3>
+      <p>Comprehensive educational administration system streamlining student & member records, grade processing, academic scheduling, attendance tracking, staff management, and parent-teacher communication portals with high reliability.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Inertia.js</code></p>
       <p align="center"><a href="https://github.com/Daniel-wasihun/Simple-Senbet"><b>View Repository →</b></a></p>
     </td>
