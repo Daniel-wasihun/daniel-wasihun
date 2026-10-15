@@ -123,13 +123,11 @@ Here are production-grade platforms and applications I've engineered, ordered fr
       <h3 align="center">🏫 Multi-Tenant School SaaS</h3>
       <p>Enterprise multi-tenant SaaS platform engineered for Ethiopian K-12 schools. Provides centralized administration, student lifecycle tracking, automated academic records, continuous assessment, grade processing, staff management, and parent-teacher communication portals with strict tenant data isolation.</p>
       <p><b>Stack:</b> <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code></p>
-      <p align="center"><a href="https://github.com/Daniel-wasihun/School"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🎓 GibiGubae & Senbet School Automation</h3>
       <p>Comprehensive educational administration system streamlining student & member records, grade processing, academic scheduling, attendance tracking, staff management, and parent-teacher communication portals with high reliability.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Inertia.js</code></p>
-      <p align="center"><a href="https://github.com/Daniel-wasihun/Simple-Senbet"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -137,13 +135,11 @@ Here are production-grade platforms and applications I've engineered, ordered fr
       <h3 align="center">🌐 Qelem Meda Technologies Corporate Platform</h3>
       <p>Official corporate technology website and client engagement platform powering Qelem Meda Technologies (QMT), featuring modern responsive UI, dynamic service catalogs, case studies, and lead acquisition.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>Tailwind CSS</code> · <code>PostgreSQL</code></p>
-      <p align="center"><a href="https://github.com/Daniel-wasihun"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
       <h3 align="center">📚 Library Automation System</h3>
       <p>End-to-end digital library management engine supporting circulation tracking, book inventory, catalog indexing, barcode/QR processing, membership records, and automated due-date notifications.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code></p>
-      <p align="center"><a href="https://github.com/Daniel-wasihun/library_spring"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -151,13 +147,11 @@ Here are production-grade platforms and applications I've engineered, ordered fr
       <h3 align="center">🌱 Digital Farmer Mobile App</h3>
       <p>Cross-platform mobile application delivering real-time agronomic data, crop advisory, local market commodity pricing, and direct agricultural service connectivity with offline-first capabilities.</p>
       <p><b>Stack:</b> <code>Flutter</code> · <code>Dart</code> · <code>REST APIs</code></p>
-      <p align="center"><a href="https://github.com/Daniel-wasihun/digital-farmer-ui"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🎬 Video-to-Text Transcriber</h3>
       <p>AI-driven transcription application that converts video and audio media into formatted text with high accuracy, timestamp indexing, and exportable subtitles using automated speech recognition models.</p>
       <p><b>Stack:</b> <code>Python</code> · <code>Speech-to-Text AI</code> · <code>FastAPI</code></p>
-      <p align="center"><a href="https://github.com/Daniel-wasihun"><b>View Repository →</b></a></p>
     </td>
   </tr>
 </table>
