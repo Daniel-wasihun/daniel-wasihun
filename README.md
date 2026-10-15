@@ -61,22 +61,50 @@ I am a results-oriented software engineer passionate about architecting scalable
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,dart,bash" alt="Languages" />
-
-<br/>
+<p>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" title="Java"><img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="42" height="42" alt="PHP"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="42" height="42" alt="TypeScript"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://skillicons.dev/icons?i=python" width="42" height="42" alt="Python"/></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="42" height="42" alt="Dart"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="42" height="42" alt="Bash"/></a>
+</p>
 
 ### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,flutter,html,css" alt="Frontend & Mobile" />
-
-<br/>
+<p>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" width="42" height="42" alt="Vue.js"/></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer" title="React"><img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React"/></a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" alt="Next.js"/></a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" alt="Tailwind CSS"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42" alt="Bootstrap"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="42" height="42" alt="Flutter"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS3"/></a>
+</p>
 
 ### ⚙️ Backend, Frameworks & Databases
-<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,postgres,mysql,mongodb,redis" alt="Backend & Databases" />
-
-<br/>
+<p>
+  <a href="https://spring.io" target="_blank" rel="noreferrer" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring" width="42" height="42" alt="Spring Boot"/></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="42" height="42" alt="Laravel"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express.js"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="42" height="42" alt="Redis"/></a>
+</p>
 
 ### 🔧 DevOps, Cloud & Architecture
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,postman" alt="DevOps & Tools" />
+<p>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="42" height="42" alt="Docker"/></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="Git"><img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="42" height="42" alt="GitHub Actions"/></a>
+  <a href="https://www.kernel.org" target="_blank" rel="noreferrer" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="42" height="42" alt="Linux"/></a>
+  <a href="https://nginx.org" target="_blank" rel="noreferrer" title="Nginx"><img src="https://skillicons.dev/icons?i=nginx" width="42" height="42" alt="Nginx"/></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/></a>
+</p>
 
 </div>
 
@@ -84,19 +112,21 @@ I am a results-oriented software engineer passionate about architecting scalable
 
 ## 🚀 Featured Projects (Ranked by Architectural Complexity)
 
-Here are notable platforms and applications I've engineered, ordered from heavy enterprise architectures to specialized products:
+Here are production-grade platforms and applications I've engineered, ordered from heavy multi-tenant enterprise architectures to specialized services:
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🏫 GibiGubae — Multi-Tenant School SaaS</h3>
-      <p>Enterprise multi-tenant SaaS platform built for Ethiopian schools and Sunday school institutions. Provides centralized administration, student and member lifecycle tracking, automated academic records, grade processing, staff management, and parent-community communication portals with strict tenant data isolation.</p>
+      <p>Multi-tenant SaaS application built for Ethiopian schools and Sunday school institutions. Provides centralized administration, student and member lifecycle tracking, automated academic records, grade processing, staff management, and parent-community communication portals with strict tenant data isolation.</p>
       <p><b>Stack:</b> <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code></p>
+      <p align="center"><a href="https://github.com/Daniel-wasihun/School"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🎓 Senbet School Automation</h3>
       <p>Comprehensive educational administration system streamlining student records, grade processing, academic scheduling, attendance tracking, staff management, and parent-teacher communication portals with high reliability.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Inertia.js</code></p>
+      <p align="center"><a href="https://github.com/Daniel-wasihun/Simple-Senbet"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -104,11 +134,13 @@ Here are notable platforms and applications I've engineered, ordered from heavy 
       <h3 align="center">📚 Library Automation System</h3>
       <p>End-to-end digital library management engine supporting circulation tracking, book inventory, catalog indexing, barcode/QR processing, membership records, and automated due-date notifications.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code></p>
+      <p align="center"><a href="https://github.com/Daniel-wasihun/library_spring"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🌱 Digital Farmer Mobile App</h3>
       <p>Cross-platform mobile application delivering real-time agronomic data, crop advisory, local market commodity pricing, and direct agricultural service connectivity with offline-first capabilities.</p>
       <p><b>Stack:</b> <code>Flutter</code> · <code>Dart</code> · <code>REST APIs</code></p>
+      <p align="center"><a href="https://github.com/Daniel-wasihun/digital-farmer-ui"><b>View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -116,11 +148,13 @@ Here are notable platforms and applications I've engineered, ordered from heavy 
       <h3 align="center">🎬 Video-to-Text Transcriber</h3>
       <p>AI-driven transcription application that converts video and audio media into formatted text with high accuracy, timestamp indexing, and exportable subtitles using automated speech recognition models.</p>
       <p><b>Stack:</b> <code>Python</code> · <code>Speech-to-Text AI</code> · <code>FastAPI</code></p>
+      <p align="center"><a href="https://github.com/Daniel-wasihun"><b>View Repository →</b></a></p>
     </td>
     <td width="50%">
       <h3 align="center">🌐 Qelem Meda Technologies Corporate Platform</h3>
       <p>Official corporate technology website and client engagement platform for Qelem Meda Technologies, featuring modern responsive UI, dynamic service catalogs, case studies, and lead acquisition.</p>
       <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>Tailwind CSS</code> · <code>PostgreSQL</code></p>
+      <p align="center"><a href="https://github.com/Daniel-wasihun"><b>View Repository →</b></a></p>
     </td>
   </tr>
 </table>
