@@ -1,118 +1,183 @@
 <div align="center">
 
-# Daniel Wasihun
+# 👋 Hi there, I'm Daniel Wasihun
+### Full-Stack Software Engineer · Mobile Developer · AI Solutions Specialist
 
-### Software Engineer · Web · Mobile · AI
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~0125a5867a9dbff10e?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork"/>
+  </a>
+  <a href="https://www.fiverr.com/danielwasihun" target="_blank">
+    <img src="https://img.shields.io/badge/Order%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Order on Fiverr"/>
+  </a>
+  <a href="https://t.me/DanielWasihun" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:daniwzgeta@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-wasihun/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-**I build secure, modern software that helps businesses run better.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance%20%26%20Full--Time-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Experience-Full%20Stack%20%26%20Mobile-blue?style=flat-square" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Focus-High--Impact%20Scalable%20Systems-purple?style=flat-square" alt="Focus"/>
+</p>
 
-Web platforms · Mobile apps · Business systems · AI-powered tools
-
-<br/>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/HIRE_ME-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me"/>
-</a>
-<a href="https://github.com/Daniel-wasihun?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_MY_WORK-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View my work"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+**I engineer secure, production-grade web platforms, cross-platform mobile apps, and intelligent AI tools that drive business growth.**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a software engineer who turns real business problems into clean, reliable, easy-to-use software.
+I am a results-oriented software engineer passionate about architecting scalable systems, clean web & mobile experiences, and AI-powered automation. Whether you are an early-stage startup needing an MVP, an established business looking to digitize workflows, or a team seeking a dependable full-stack engineer, I deliver reliable, maintainable code on time.
 
-I work across the full stack: web applications, cross-platform mobile apps, secure backend systems, and AI-driven tools. My focus is simple: **deliver software that works well, is easy to maintain, and creates value for the people using it.**
+- 💼 **Available for**: Freelance projects, contracts, technical consulting, and full-time opportunities.
+- ⚡ **Core Strengths**: Multi-tenant SaaS architectures, reactive frontends, cross-platform mobile apps, resilient REST/GraphQL APIs, and AI workflow integration.
+- 🎯 **Engineering Philosophy**: Clean architecture, test-driven reliability, proactive communication, and business-focused problem solving.
 
 ---
 
-## 💼 Services
+## 💼 What I Can Build For You
 
-| Service | What You Get |
+| Domain | Solutions & Deliverables |
 |---|---|
-| 🌐 **Web Applications** | Business websites, dashboards, and admin panels |
-| 📱 **Mobile Apps** | Cross-platform apps built with Flutter |
-| 🏢 **SaaS & Management Systems** | Multi-tenant platforms for schools, libraries, and organizations |
-| ⚙️ **Backend & APIs** | Secure, scalable APIs and system integrations |
-| 🤖 **AI & Automation** | Speech-to-text, intelligent processing, and workflow automation |
-| 🚀 **DevOps & Deployment** | Docker, automated testing, and CI/CD pipelines |
+| 🌐 **Full-Stack Web Applications** | High-performance enterprise portals, SaaS platforms, responsive web apps, and management dashboards using Vue, React, Next.js, Laravel, and Spring Boot. |
+| 📱 **Cross-Platform Mobile Apps** | Native-feel iOS and Android applications crafted with Flutter & Dart, integrated with offline-first data, push notifications, and payment gateways. |
+| 🏢 **Multi-Tenant SaaS Systems** | Secure, isolated multi-tenant architectures, subscription billing, RBAC authorization, and automated customer onboarding. |
+| ⚙️ **APIs & Microservices** | High-throughput REST & GraphQL backends, third-party integrations, OAuth2/JWT security, and database optimization with PostgreSQL, Redis, and MySQL. |
+| 🤖 **AI & Workflow Automation** | Speech-to-text transcribers, LLM integrations, document processors, and automated data extraction pipelines. |
+| 🚀 **DevOps & Cloud Deployment** | Docker containerization, CI/CD pipelines (GitHub Actions), automated testing, and zero-downtime server deployments. |
+
+---
+
+## 🛠️ Technical Stack & Tooling
+
+<div align="center">
+
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,dart,bash" alt="Languages" />
+</a>
+
+<br/>
+
+### 🎨 Frontend & Mobile
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,flutter,html,css" alt="Frontend & Mobile" />
+</a>
+
+<br/>
+
+### ⚙️ Backend, Frameworks & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express,postgres,mysql,mongodb,redis" alt="Backend & Databases" />
+</a>
+
+<br/>
+
+### 🔧 DevOps, Cloud & Architecture
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,postman" alt="DevOps & Tools" />
+</a>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏫 **GibiGubae**<br/>*School Management SaaS* | Multi-school platform that simplifies administration while keeping each school's data securely isolated. | `Java` `Spring Boot` `PostgreSQL` `Redis` |
-| 📚 **Library Automation System** | Manage books, members, borrowing, and returns in one place. | `Laravel` `Vue.js` `PostgreSQL` |
-| 🎓 **Senbet School Automation** | Academic records and administrative workflows made simple to manage. | `Laravel` `Vue.js` `PostgreSQL` |
-| 🎬 **Video-to-Text Transcriber** | Converts audio and video into text using speech recognition and AI processing. | `Python` `AI` `Speech-to-Text` |
-| 🌱 **Digital Farmer** | Mobile app that makes agricultural information and digital farming services accessible. | `Flutter` `Dart` |
-| 💼 **Developer Portfolio** | Dynamic portfolio site with a content dashboard to manage projects, skills, and profile info. | `Laravel` `Vue.js` `TypeScript` `Tailwind CSS` |
+Here are a few notable platforms and applications I've engineered:
 
-👉 **[Browse all repositories](https://github.com/Daniel-wasihun?tab=repositories)**
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏫 GibiGubae — Multi-School SaaS</h3>
+      <p>Enterprise-grade school management platform designed for multi-tenant scalability. Features fine-grained role-based access, academic tracking, automated scheduling, and strict tenant data isolation.</p>
+      <p><b>Stack:</b> <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Library Automation System</h3>
+      <p>End-to-end digital library management engine supporting circulation tracking, catalog search, barcode/QR processing, membership billing, and automated due-date notifications.</p>
+      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 Senbet School Automation</h3>
+      <p>Comprehensive educational administration system streamlining student records, grade processing, staff management, and parent-teacher communication portals.</p>
+      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>PostgreSQL</code> · <code>Inertia.js</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 Video-to-Text Transcriber</h3>
+      <p>AI-driven transcription application that converts video and audio media into formatted text with high accuracy, timestamp indexing, and exportable subtitles.</p>
+      <p><b>Stack:</b> <code>Python</code> · <code>Speech-to-Text AI</code> · <code>FastAPI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌱 Digital Farmer Mobile App</h3>
+      <p>Cross-platform mobile application delivering real-time agronomic data, crop advisory, local market pricing, and direct agricultural service connectivity to farmers.</p>
+      <p><b>Stack:</b> <code>Flutter</code> · <code>Dart</code> · <code>REST APIs</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Dynamic Developer Portfolio</h3>
+      <p>Modular, responsive developer web application featuring a secure administrative CMS to manage dynamic projects, articles, technical skills, and client inquiries.</p>
+      <p><b>Stack:</b> <code>Laravel</code> · <code>Vue.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  👉 <b><a href="https://github.com/Daniel-wasihun?tab=repositories">Explore all public repositories & open-source contributions</a></b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,dart" alt="Languages"/>
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,flutter" alt="Frontend and mobile"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,postgres,mysql,mongodb,redis" alt="Backend and databases"/>
-
-**Tools & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions" alt="Tools and infrastructure"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-wasihun&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Daniel Wasihun's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-wasihun&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="175"/>
 </div>
 
 ---
 
-## ✨ How I Work
+## 🌟 Why Clients & Teams Choose to Work With Me
 
-- **Clean code:** simple, reusable, and maintainable.
-- **Security first:** protecting users, systems, and data.
-- **User-focused design:** clear interfaces that are easy to use.
-- **Reliable delivery:** tested features and proper error handling.
-- **Right tool for the job:** practical technology choices, not hype.
+- 🛡️ **Clean & Maintainable Architecture**: Code written according to SOLID principles, thoroughly documented, and structured for long-term scalability.
+- ⚡ **Rapid Execution Without Cutting Corners**: Fast turnarounds on MVPs, features, and bug fixes with continuous testing.
+- 🤝 **Clear & Proactive Communication**: Regular milestone updates, transparent timelines, and prompt responses across Slack, Telegram, Upwork, and Email.
+- 💡 **Business-First Mindset**: I build solutions that serve user needs and commercial goals, not just code for the sake of code.
 
 ---
 
-## 🤝 Let's Work Together
+## 📬 Let's Connect & Build Something Great!
 
-Have an idea for a website, mobile app, business platform, or AI-powered product?
-I'm open to freelance projects, startup collaborations, and team opportunities.
+Whether you have an upcoming project, need to hire a reliable developer, or just want to discuss an idea, feel free to reach out through any channel below:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email_Me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Daniel-wasihun">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+| Platform | Handle / Direct Link | Action |
+|:---|:---|:---:|
+| 💼 **Upwork** | `Daniel Wasihun` | <a href="https://www.upwork.com/freelancers/~0125a5867a9dbff10e?mp_source=share" target="_blank"><img src="https://img.shields.io/badge/Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a> |
+| ⚡ **Fiverr** | `@danielwasihun` | <a href="https://www.fiverr.com/danielwasihun" target="_blank"><img src="https://img.shields.io/badge/Order_Gig-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a> |
+| 👔 **LinkedIn** | `/in/daniel-wasihun` | <a href="https://www.linkedin.com/in/daniel-wasihun/" target="_blank"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+| ✈️ **Telegram** | `@DanielWasihun` | <a href="https://t.me/DanielWasihun" target="_blank"><img src="https://img.shields.io/badge/Direct_Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> |
+| ✉️ **Email** | `daniwzgeta@gmail.com` | <a href="mailto:daniwzgeta@gmail.com?subject=Project%20Inquiry%20-%20Daniel%20Wasihun"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
+| 🐙 **GitHub** | `@Daniel-wasihun` | <a href="https://github.com/Daniel-wasihun" target="_blank"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| 𝕏 **X / Twitter** | `@danielwasihun` | <a href="https://x.com/danielwasihun" target="_blank"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a> |
+| 📸 **Instagram** | `@daniel.wasihun` | <a href="https://www.instagram.com/daniel.wasihun/" target="_blank"><img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> |
 
-<br/><br/>
+<br/>
 
-*Building with purpose. Improving every day.*
+```
+"Building reliable systems with purpose. Transforming ambitious ideas into high-value software."
+```
 
 </div>
